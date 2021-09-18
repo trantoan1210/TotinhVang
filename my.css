@@ -1,5 +1,6 @@
 .container {
     width: 1000px;
+    
 }
 
 #content {
@@ -19,4 +20,14 @@
     top: 20%;
     left: 350px;
     
+}
+.dongy{
+    width: auto;
+    height: auto;
+}
+h2,h1,h3{
+    margin: auto;
+}
+body{
+    background-image: url('https://i0.wp.com/dl3.glitter-graphics.net/pub/1144/1144833co2b00m8rh.gif');
 }
