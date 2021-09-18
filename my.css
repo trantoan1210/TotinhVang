@@ -1,0 +1,22 @@
+.container {
+    width: 1000px;
+}
+
+#content {
+    margin: 0 auto;
+    width: 400px;
+    top: 300px;
+    text-align: center;
+}
+
+#btn-no {
+    position: absolute;
+    top: 20%;
+    left: 600px;
+}
+#btn-yes{
+    position: absolute;
+    top: 20%;
+    left: 350px;
+    
+}
