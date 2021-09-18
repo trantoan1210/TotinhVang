@@ -19,5 +19,5 @@ function setRandomPosition(){
     X++
     }
 function yess(){
-
+ document.write("Cảm ơn em")
 }
