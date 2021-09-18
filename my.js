@@ -8,7 +8,16 @@ function setRandomPosition(){
         break;
         case 9:
             document.getElementById("content").innerHTML="Haizz, anh bảo rồi!!Đừng cố chấp nữa, Bấm nút còn lại nào^^!!"
-    }
+        break;
+        case 20:
+            document.getElementById("content").innerHTML="Giờ từ chối thử xem^^ hehe"
+            document.getElementById("btn-no").style.display= 'none'
+        break;
+    
+        }
     
     X++
     }
+function yess(){
+
+}
